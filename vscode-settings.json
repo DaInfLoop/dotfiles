@@ -1,0 +1,21 @@
+{
+    "[ssh_config]": {},
+    "explorer.confirmDragAndDrop": false,
+    "git.openRepositoryInParentFolders": "never",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "arcade-vsc.slackID": "U06TBP41C3E",
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "catppuccin-frappe",
+    "glassit.alpha": 204,
+    "files.associations": {
+        "*.ejs": "html"
+    },
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Hack",
+    "editor.formatOnPaste": true,
+    "telemetry.telemetryLevel": "off"
+}
