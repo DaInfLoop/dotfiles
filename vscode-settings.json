@@ -17,5 +17,6 @@
     "editor.formatOnSave": true,
     "editor.fontFamily": "Hack",
     "editor.formatOnPaste": true,
-    "telemetry.telemetryLevel": "off"
+    "telemetry.telemetryLevel": "off",
+    "vscode-pets.throwBallWithMouse": true
 }
